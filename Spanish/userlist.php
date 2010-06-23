@@ -3,11 +3,11 @@
 // Language definitions used in userlist.php
 $lang_ul = array(
 
-'User find legend'	=>	'Find and sort users',
-'User search info'	=>	'Enter a username to search for and/or a user group to filter by. The username field can be left blank. Use the wildcard character * for partial matches.',
-'User sort info'	=>	'Sort users by name, date registered or number of posts and in ascending/descending order.',
-'User group'		=>	'User group',
-'No of posts'		=>	'Number of posts',
-'All users'			=>	'All'
+'User find legend'	=>	'Buscar y ordenar usuarios',
+'User search info'	=>	'Escriba un nombre de usuario para buscar y/o un grupo de usuarios para filtrar. El campo de usuario no puede estar vacío. Use el carácter especial * como comodín de búsqueda.',
+'User sort info'	=>	'Ordenar usuarios por nombre, fecha de registro o numero de post, de manera ascendente o descendente.',
+'User group'		=>	'Grupo del usuario',
+'No of posts'		=>	'Total de entradas',
+'All users'			=>	'Todos'
 
 );
