@@ -3,12 +3,13 @@ Instalación:
 Solo necesitas copiar o mover la carpeta Spanish a la carpeta lang que esta en la carpeta donde esta instalado FluxBB y activarlo en el panel de administración
 
 Ficheros traducidos hasta el momento:
-index
-login
-topic
-delete
-forum
-search
-userlist
-admin_reports
-register
+index.php
+login.php
+topic.php
+delete.php
+forum.php
+search.php
+userlist.php
+admin_reports.php
+misc.php
+register.php
