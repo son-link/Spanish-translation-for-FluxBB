@@ -3,18 +3,18 @@
 // Language definitions used in admin_censoring.php
 $lang_admin_censoring = array(
 
-'Must enter both message'	=>	'You must enter both a word to censor and text to replace it with.',
-'Must search both message'	=>	'You must enter both text to search for and text to replace with.',
-'Word updated redirect'		=>	'Censor word updated. Redirecting …',
-'Word added redirect'		=>	'Censor word added. Redirecting …',
-'Word removed redirect'		=>	'Censor word removed. Redirecting …',
-'Censoring head'			=>	'Censoring',
-'Add word subhead'			=>	'Add word',
-'Add word info'				=>	'Enter a word that you want to censor and the replacement text for this word. Wildcards are accepted (i.e. *some* would match somewhere and lonesome). Censor words also affect usernames. New users will not be able to register with usernames containing any censored words. The search is case insensitive. <strong>Censor words must be enabled in %s for this to have any effect.</strong>',
-'Censored word label'		=>	'Censored word',
-'Replacement label'			=>	'Replacement word(s)',
-'Action label'				=>	'Action',
-'Edit remove subhead'		=>	'Edit or remove words',
-'No words in list'			=>	'No censor words in list.',
+'Must enter both message'	=>	'Introduzca una palabra para censurar y la que la sustituirá.',
+'Must search both message'	=>	'Introduzca una palabra para buscarla y sustituirla.',
+'Word updated redirect'		=>	'Actualizadas palabras censuradas. Redirigiendo …',
+'Word added redirect'		=>	'Añadida palabra censurada. Redirigiendo …',
+'Word removed redirect'		=>	'Palabra censurada borrada. Redirigiendo …',
+'Censoring head'			=>	'Censurando',
+'Add word subhead'			=>	'Añadir palabra',
+'Add word info'				=>	'Introduzca la palabra a censurar y la que lo sustituirá. se aceptan comodines (p.e: *mierd* -> mierda, mierdecilla) . Las palabras censuradas afecta a los nombres de los usuarios. La búsqueda es sensible a mayúsculas y minúsculas. <strong>El filtro de palabras debera de ser activado en %s para que surta efecto.</strong>',
+'Censored word label'		=>	'Palabra a censurar',
+'Replacement label'			=>	'Palabra(s) que la reemplaza',
+'Action label'				=>	'Acción',
+'Edit remove subhead'		=>	'Editar o añadir palabras',
+'No words in list'			=>	'No hay palabras censuradas en la lista.',
 
 );

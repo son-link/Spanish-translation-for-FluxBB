@@ -3,19 +3,19 @@
 // Language definitions used in admin_ranks.php
 $lang_admin_ranks = array(
 
-'Must be integer message'	=>	'Minimum posts must be a positive integer value.',
-'Dupe min posts message'	=>	'There is already a rank with a minimun posts value of %s.',
-'Must enter title message'	=>	'You must enter a rank title.',
-'Rank added redirect'		=>	'Rank added. Redirecting …',
-'Rank updated redirect'		=>	'Rank updated. Redirecting …',
-'Rank removed redirect'		=>	'Rank removed. Redirecting …',
-'Ranks head'				=>	'Ranks',
-'Add rank subhead'			=>	'Add rank',
-'Add rank info'				=>	'Enter a rank and the minimum number of posts a user must have made to attain the rank. Different ranks cannot have the same value for minimum posts. If a title is set for a user, the title will be displayed instead of any rank. <strong>User ranks must be enabled in %s for this to have any effect</strong>.',
-'Rank title label'			=>	'Rank title',
-'Minimum posts label'		=>	'Minimum posts',
-'Actions label'				=>	'Actions',
-'Edit remove subhead'		=>	'Edit/remove ranks',
-'No ranks in list'			=>	'No ranks in list',
+'Must be integer message'	=>	'El valor de post mínimos debe de ser un numero entero.',
+'Dupe min posts message'	=>	'Este rango tienen un valor mínimo de %s mensajes.',
+'Must enter title message'	=>	'Debe de dar un nombre al rango.',
+'Rank added redirect'		=>	'Rango añadido. Redirigiendo …',
+'Rank updated redirect'		=>	'Rango actualizado. Redirigiendo …',
+'Rank removed redirect'		=>	'Rango borrado. Redirigiendo …',
+'Ranks head'				=>	'Rangos',
+'Add rank subhead'			=>	'Añadir rango',
+'Add rank info'				=>	'Introduzca un rango y el numero de mensajes mínimos para el. Diferentes rangos no deben de tener el mismo valor. Si un usuario tiene un titilo, este se mostrara en lugar del rango. <strong>Los rangos de los usuarios deben de estar activados en %s para que surtan efecto</strong>.',
+'Rank title label'			=>	'Titulo del rango',
+'Minimum posts label'		=>	'Mensajes mínimos',
+'Actions label'				=>	'Acciones',
+'Edit remove subhead'		=>	'Editar/borrar rangos',
+'No ranks in list'			=>	'No hay rangos en la lista',
 
 );

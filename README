@@ -1,15 +1,36 @@
 Traducción al español del sistema de foros FluxBB 1.4 http://fluxbb.org/
+Esta traducción a sido llevada por:
+Son Link
+scromega
+Karis Gallo
+Google Translate ^^
 Instalación:
 Solo necesitas copiar o mover la carpeta Spanish a la carpeta lang que esta en la carpeta donde esta instalado FluxBB y activarlo en el panel de administración
 
 Ficheros traducidos hasta el momento:
-index.php
-login.php
-topic.php
-delete.php
-forum.php
-search.php
-userlist.php
-admin_reports.php
-misc.php
-register.php
+index
+login
+topic
+delete
+forum
+search
+userlist
+admin_reports
+register
+profile
+common
+help
+post
+admin_index
+admin_categories
+admin_forums
+admin_censoring
+admin_options
+admin_plugin_example
+admin_ranks
+admin_user
+admin_permisions
+admin_common
+
+A medias
+prof_reg

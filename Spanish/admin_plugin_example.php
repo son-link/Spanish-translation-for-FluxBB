@@ -3,15 +3,15 @@
 // Language definitions used in example Plugin
 $lang_admin_plugin_example = array(
 
-'No text'				=>	'You didn\'t enter anything!',
-'Example plugin title'	=>	'Example plugin',
-'You said'				=>	'You said "%s". Great stuff.',
-'Explanation 1'			=>	'This plugin doesn\'t do anything useful. Hence the name "Example".',
-'Explanation 2'			=>	'This would be a good spot to talk a little about your plugin. Describe what it does and how it should be used. Be brief, but informative.',
-'Example form title'	=>	'An example form',
-'Legend text'			=>	'Enter a piece of text and hit "Show text"!',
-'Text to show'			=>	'Text to show',
-'Show text button'		=>	'Show text',
-'Input content'			=>	'The text you want to display.',
+'No text'				=>	'¡No has ingresado ningun texto!',
+'Example plugin title'	=>	'Complemento de ejemplo',
+'You said'				=>	'Dijiste "%s"',
+'Explanation 1'			=>	'Este ejemplo no sirve de mucho. Es solo un ejemplo.',
+'Explanation 2'			=>	'Este es un buen sitio para comentar el complemento. Sea breve pero claro.',
+'Example form title'	=>	'Un formulario de ejemplo',
+'Legend text'			=>	'Introduce un texto y pulsa el botón',
+'Text to show'			=>	'Texto a mostrar',
+'Show text button'		=>	'Mostrar texto',
+'Input content'			=>	'Este es el texto que se mostrara.',
 
 );
