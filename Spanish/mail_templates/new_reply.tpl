@@ -1,11 +1,11 @@
-Subject: Reply to topic: <topic_subject>
+Asuntot: respuesta en el tema: <topic_subject>
 
-<replier> has replied to the topic <topic_subject> to which you are subscribed. There may be more new replies, but this is the only notification you will receive until you visit the board again.
+<replier> a respondido al tema <topic_subject> al que esta suscrito. Para poder recibir nuevas notificaciones, deberá de visitar el tema.
 
-The post is located at <post_url>
+La respuesta se encuentra en <post_url>
 
-You can unsubscribe by going to <unsubscribe_url>
+Puedes describirse en <unsubscribe_url>
 
 --
 <board_mailer>
-(Do not reply to this message)
+(No responda este correo)

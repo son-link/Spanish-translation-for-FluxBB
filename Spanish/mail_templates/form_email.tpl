@@ -1,8 +1,8 @@
-Subject: <mail_subject>
+Asunto: <mail_subject>
 
-<sender> from <board_title> has sent you a message. You can reply to <sender> by replying to this email.
+<sender> de <board_title> le a enviado un mensaje. Puedes responder a <sender> respondiendo este correo.
 
-The message reads as follows:
+El mensaje es el siguiente:
 -----------------------------------------------------------------------
 
 <mail_message>
