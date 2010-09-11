@@ -21,7 +21,7 @@ $lang_profile = array(
 'Paginate info'					=>	'Introduzca el numero de entradas y mensajes que desea ver por pagina.',
 
 // Password stuff
-'Pass key bad'					=>	'La llave de activación de la nueva contraseña es incorrecta o expiro. Solicite una nueva o ponga se en contacto con los administradores en',
+'Pass key bad'					=>	'La llave de activación de la nueva contraseña es incorrecta o expiro. Solicite una nueva o ponga-se en contacto con los administradores en',
 'Pass updated'					=>	'Se actualizo su contraseña. Ya puedo entrar con su usuario y nueva contraseña.',
 'Pass updated redirect'			=>	'Contraseña actualizada. Redirigiendo …',
 'Wrong pass'					=>	'Contraseña antigua invalida.',
@@ -50,7 +50,7 @@ $lang_profile = array(
 'Bad type'						=>	'El tipo de imagen no esta soportada. Solo se admite gif, jpeg y png.',
 'Too wide or high'				=>	'La imagen es mas grande que el tamaño indicado',
 'Too large'						=>	'La imagen es mayor que el máximo permitido',
-'pixels'						=>	'pixels',
+'pixels'						=>	'píxeles',
 'bytes'							=>	'bytes',
 'Move failed'					=>	'El servidor no esta habilitado para guardar la imagen. Contacte con los administradores en ',
 'Unknown failure'				=>	'Ocurrió un error. Intentelo de nuevo.',

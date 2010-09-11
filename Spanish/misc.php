@@ -11,9 +11,9 @@ $lang_misc = array(
 'No email subject'				=>	'Debe introducir un asunto.',
 'No email message'				=>	'Debe introducir un mensaje.',
 'Too long email message'		=>	'Los mensajes no pueden ser superior a 65535 caracteres (64 KB).',
-'Email flood'					=>	'Por lo menos %s segundos tienen que pasar entre los correos electrónicos enviados. Por favor, espere un momento e intente enviarlo de nuevo.',
+'Email flood'					=>	'Tienen que pasar al menos %s segundos entre los correos enviados. Por favor, espere un momento e intente enviarlo de nuevo.',
 'Email sent redirect'			=>	'Correo electrónico enviado. Redireccionando...',
-'Send email to'					=>	'Enviar email a',
+'Send email to'					=>	'Enviar un correo a',
 'Email subject'					=>	'Asunto',
 'Email message'					=>	'Mensaje',
 'Email disclosure note'			=>	'Tenga en cuenta que al utilizar este formulario, su dirección de correo electrónico será vista por el destinatario.',
@@ -21,7 +21,7 @@ $lang_misc = array(
 
 // Report
 'No reason'						=>	'Debe introducir una razón.',
-'Report flood'					=>	'Por lo menos %s segundos tienen que pasar entre los reportes. Por favor, espere un momento e intente enviarlo de nuevo.',
+'Report flood'					=>	'Tienen que pasar al menos %s segundos entre los reportes. Por favor, espere un momento e intente enviarlo de nuevo.',
 'Report redirect'				=>	'Mensaje reportado. Redireccionando...',
 'Report post'					=>	'Reportar mensaje',
 'Reason'						=>	'Razón',
@@ -35,8 +35,8 @@ $lang_misc = array(
 
 // General forum and topic moderation
 'Moderate'						=>	'Moderar',
-'Select'						=>	'Select', // the header of a column of checkboxes
-'Move'							=>	'Move',
+'Select'						=>	'Seleccionar', // the header of a column of checkboxes
+'Move'							=>	'Mover',
 'Split'							=>	'Dividir',
 'Delete'						=>	'Borrar',
 'Merge'							=>	'Unir',
@@ -49,7 +49,7 @@ $lang_misc = array(
 'Move legend'					=>	'Seleccione el destino para mover',
 'Move to'						=>	'Mover a',
 'Nowhere to move'				=>	'No hay foros a los que pueda mover los temas.',
-'Leave redirect'				=>	'Leave redirect topic(s)',
+'Leave redirect'				=>	'Dejar redirigir tema(s)',
 'Move topic redirect'			=>	'Tema movido. Redireccionando...',
 'Move topics redirect'			=>	'Temas movidos. Redireccionando ...',
 'Confirm delete legend'			=>	'Por favor confirme la eliminación',
@@ -57,7 +57,7 @@ $lang_misc = array(
 'Delete topics comply'			=>	'¿Está seguro de que quiere borrar los temas seleccionados?',
 'Delete topics redirect'		=>	'Temas eliminado. Redireccionando ...',
 'Open topic redirect'			=>	'Tema abierto. Redireccionando...',
-'Open topics redirect'			=>	'Topics opened. Redirecting …',
+'Open topics redirect'			=>	'Temas abiertos. Redireccionando...',
 'Close topic redirect'			=>	'Tema cerrado. Redireccionando...',
 'Close topics redirect'			=>	'Temas cerrados. Redireccionando...',
 'No topics selected'			=>	'Debe seleccionar al menos un tema para mover, borrar, abrir o cerrar.',
@@ -84,7 +84,7 @@ $lang_misc = array(
 
 // Get host
 'Host info 1'					=>	'La dirección IP es: %s',
-'Host info 2'					=>	'El hostname es: %s',
+'Host info 2'					=>	'El nombre del host es: %s',
 'Show more users'				=>	'Ver más usuarios para esta IP',
 
 );

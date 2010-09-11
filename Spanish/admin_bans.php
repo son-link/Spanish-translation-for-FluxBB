@@ -3,7 +3,7 @@
 // Language definitions used in admin_bans.php
 $lang_admin_bans = array(
 
-'No user message'			=>	'No hay ningún usuario registrado con ese nombre.Si no desea vincular un baneo con un nombre de usuario, dejelo en blanco.',
+'No user message'			=>	'No hay ningún usuario registrado con ese nombre.Si no desea banear a un usuario por su nombre, dejelo en blanco.',
 'No user ID message'		=>	'No hay ningún usuario registrado con este ID.',
 'User is admin message'		=>	'El usuario %s es un administrador y no puede ser baneado. Si buscar banear un administrador, antes tendrás que relegarlo a moderador o usuario normal.',
 'Must enter message'		=>	'Puedes introducir un nombre de usuario, dirección IP o correo.',
@@ -11,7 +11,7 @@ $lang_admin_bans = array(
 'Invalid IP message'		=>	'Has introducido una dirección IP invalida.',
 'Invalid e-mail message'	=>	'La dirección de correo introducida es invalida.',
 'Invalid date message'		=>	'La fecha de caducidad es invalida.',
-'Invalid date reasons'		=>	'El formato de la fecha debe de ser YYYY-MM-DD y al menos un día a partir de la fecha actual.',
+'Invalid date reasons'		=>	'El formato de la fecha debe de ser YYYY-MM-DD y al menos un día antes de la fecha actual.',
 'Ban added redirect'		=>	'Banneo añadido. Redirigiendo …' ,
 'Ban edited redirect'		=>	'Banneo actualizado. Redirigiendo …',
 'Ban removed redirect'		=>	'Banneo borrado. Redirigiendo …',
@@ -22,7 +22,7 @@ $lang_admin_bans = array(
 'Username help'				=>	'El nombre de usuario a banear.',
 'Username advanced help'	=>	'El nombre de usuario a banear. En la próxima pagina podrá introducir una dirección de correo o una dirección/rango de IP. Si solo quieres una dirección o rango de IP especifico, dejalo en blanco.',
 
-'Ban search head'			=>	'Buscar baneos',
+'Ban search head'			=>	'Buscar usuarios baneados',
 'Ban search subhead'		=>	'Introduzca palabras a buscar',
 'Ban search info'			=>	'Buscar baneados en la BD. Puedes introducir una o mas palabras a buscar.Puedes usar el carácter especial *.',
 'Date help'					=>	'(yyyy-mm-dd)',

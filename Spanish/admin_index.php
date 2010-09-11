@@ -3,7 +3,7 @@
 // Language definitions used in admin_index.php
 $lang_admin_index = array(
 
-'fopen disabled message'			=>	'No se puede comprobar actualizaciones desde \'allow_url_fopen\'. Esta deshabilitado de este sistema.',
+'fopen disabled message'			=>	'No se puede comprobar las actualizaciones desde \'allow_url_fopen\'. Esta deshabilitado en este sistema.',
 'Upgrade check failed message'		=>	'Ocurrió un error desconocido al comprobar las actualizaciones.',
 'Running latest version message'	=>	'Tienes la ultima versión de FluxBB.',
 'New version available message'		=>	'Hay una nueva versión de FluxBB. Puedes descargarla desde %s.',

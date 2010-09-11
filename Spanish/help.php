@@ -8,7 +8,7 @@ $lang_help = array(
 
 'BBCode'				=>	'BBCode',
 'BBCode info 1'			=>	'BBCode es una colección de etiquetas para formatear los mensajes del post, sustituyendo a sus equivalentes HTML. Abajo tienes una lista de ellos',
-'BBCode info 2'			=>	'Los administradores pueden activar y/o desactivar algunas etiquetas BBCODE. A la izquierda podrás ver los que están activados para poder usarlos en tus mensajes y firmas.',
+'BBCode info 2'			=>	'Los administradores pueden activar y/o desactivar algunas etiquetas BBCode. A la izquierda podrás ver los que están activados para poder usarlos en tus mensajes y firmas.',
 
 'Text style'			=>	'Estilo de texto',
 'Text style info'		=>	'Las siguientes etiquetas modifican la apariencia del texto:',
@@ -25,7 +25,7 @@ $lang_help = array(
 
 'Links and images'		=>	'Enlaces e imágenes',
 'Links info'			=>	'Puedes añadir enlaces a documentos, paginas y correos con las siguiente etiquetas:',
-'My email address'		=>	'Mi direccional de correo',
+'My email address'		=>	'Mi dirección de correo',
 'Images info'			=>	'Para añadir imágenes usa la etiqueta "img". el texto detrás de "=" sirve para sustituir el atributo alt, el cual muestra un texto si la imagen no se puede cargar.',
 
 'Quotes'				=>	'Notas',
@@ -33,7 +33,7 @@ $lang_help = array(
 'Quotes info 2'			=>	'Si no quieres poner una nota de alguien en particular, solamente no uses el valor name.',
 'Quote text'			=>	'Esto es una nota.',
 'produces quote box'	=>	'genera una nota como esta:',
-'quote note'			=>	'Nota: si el nombre del usuario contiene [ o ], tienes que ponerle entre comillas.',
+'quote note'			=>	'Nota: si el nombre del usuario contiene [ o ], tienes que ponerlos entre comillas.',
 
 'Code'					=>	'Código',
 'Code info'				=>	'Para visualizar código puedes usar la etiqueta code. El texto entre estas etiquetas no afectara al código del foro.',

@@ -14,7 +14,7 @@ $lang_index = array(
 'No of posts'	=>	'Total mensajes: %s',
 'Online'		=>	'En linea:', // As in "Online: User A, User B etc."
 'Board info'	=>	'Información del foro',
-'Board stats'	=>	'Estadisticas del foro',
+'Board stats'	=>	'Estadísticas del foro',
 'User info'		=>	'Información del usuario'
 
 );

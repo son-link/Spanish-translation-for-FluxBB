@@ -35,7 +35,7 @@ $lang_admin_common = array(
 'here'					=>	'aqui',
 'Action'				=>	'Acción',
 'None'					=>	'Nada',
-'Maintenance mode'		=>	'modo de mantenimiento', // Used for link text in more than one file
+'Maintenance mode'		=>	'Modo de mantenimiento', // Used for link text in more than one file
 
 // Admin loader
 'No plugin message'		=>	'no hay ningún complemento llamado %s en el directorio de complementos.',
