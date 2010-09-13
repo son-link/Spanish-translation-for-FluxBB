@@ -5,40 +5,40 @@ $lang_admin_common = array(
 
 // The menu
 'Admin menu'			=>	'Menú de administración',
-'Plugins menu'			=>	'Complementos',
+'Plugins menu'			=>	'Menú de complementos',
 'Moderator menu'		=>	'Menú de moderación',
-'Index'					=>	'Principal',
+'Index'					=>	'Índice',
 'Categories'			=>	'Categorías',
-'Forums'				=>	'Foros',
+'Forums'				=>	'Subforos',
 'Users'					=>	'Usuarios',
 'User groups'			=>	'Grupos de usuarios',
 'Options'				=>	'Opciones',
 'Permissions'			=>	'Permisos',
-'Censoring'				=>	'Censurar',
+'Censoring'				=>	'Censura',
 'Ranks'					=>	'Rangos',
-'Bans'					=>	'Banear usuarios',
+'Bans'					=>	'Bans',
 'Prune'					=>	'Borrar',
 'Maintenance'			=>	'Mantenimiento',
 'Reports'				=>	'Reportes',
 
 'Admin'					=>	'Administrar',
-'Go back'				=>	'Atras',
+'Go back'				=>	'Atrás',
 'Delete'				=>	'Borrar',
 'Update'				=>	'Actualizar',
 'Add'					=>	'Añadir',
 'Edit'					=>	'Editar',
 'Remove'				=>	'Borrar',
-'Yes'					=>	'Si',
+'Yes'					=>	'Sí',
 'No'					=>	'No',
 'Save changes'			=>	'Guardar cambios',
 'Save'					=>	'Guardar',
-'here'					=>	'aqui',
+'here'					=>	'aquí',
 'Action'				=>	'Acción',
 'None'					=>	'Nada',
-'Maintenance mode'		=>	'Modo de mantenimiento', // Used for link text in more than one file
+'Maintenance mode'		=>	'modo de mantenimiento', // Used for link text in more than one file
 
 // Admin loader
-'No plugin message'		=>	'no hay ningún complemento llamado %s en el directorio de complementos.',
+'No plugin message'		=>	'No hay ningún complemento llamado %s en el directorio de complementos.',
 'Plugin failed message'	=>	'Error al cargar el complemento <strong>%s</strong>.',
 
 );

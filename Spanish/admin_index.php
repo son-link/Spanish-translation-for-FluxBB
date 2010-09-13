@@ -3,15 +3,15 @@
 // Language definitions used in admin_index.php
 $lang_admin_index = array(
 
-'fopen disabled message'			=>	'No se puede comprobar las actualizaciones desde \'allow_url_fopen\'. Esta deshabilitado en este sistema.',
+'fopen disabled message'			=>	'No se pueden comprobar las actualizaciones ya que \'allow_url_fopen\' está desactivado en este sistema.',
 'Upgrade check failed message'		=>	'Ocurrió un error desconocido al comprobar las actualizaciones.',
 'Running latest version message'	=>	'Tienes la ultima versión de FluxBB.',
 'New version available message'		=>	'Hay una nueva versión de FluxBB. Puedes descargarla desde %s.',
-'PHPinfo disabled message'			=>	'la función de PHP phpinfo() esta deshabilitada.',
-'Not available'						=>	'No esta disponible',
+'PHPinfo disabled message'			=>	'La función de PHP phpinfo() está desactivada.',
+'Not available'						=>	'No disponible',
 'Forum admin head'					=>	'Administración del foro',
 'NA'								=>	'N/D',
-'Welcome to admin'					=>	'Bienvenido al panel de administración de FluxBB. Desde aquí puede controlar las principales opciones del foro. Dependiendo de su rango puede:',
+'Welcome to admin'					=>	'Bienvenido al panel de administración de FluxBB. Desde aquí puedes controlar las opciones principales del foro. Dependiendo de tu rango puedes:',
 'Welcome 1'							=>	'Organizar categorías y foros.',
 'Welcome 2'							=>	'Cambiar preferencias y opciones de todo el foro.',
 'Welcome 3'							=>	'Controlar los permisos de los usuarios y visitantes.',
@@ -20,7 +20,7 @@ $lang_admin_index = array(
 'Welcome 6'							=>	'Censurar palabras.',
 'Welcome 7'							=>	'Cambiar rangos de los usuarios.',
 'Welcome 8'							=>	'Borrar temas antiguos.',
-'Welcome 9'							=>	'Ver los informes.',
+'Welcome 9'							=>	'Ver los reportes de mensajes.',
 'Statistics head'					=>	'Estadísticas',
 'FluxBB version label'				=>	'Versión de FluxBB',
 'Check for upgrade'					=>	'Comprobar actualizaciones',
@@ -28,7 +28,7 @@ $lang_admin_index = array(
 'Server load label'					=>	'Carga del servidor',
 'Server load data'					=>	'%s - %s usuario(s) en linea',
 'Environment label'					=>	'Entorno',
-'Environment data OS'				=>	'Sistema Operativo: %s',
+'Environment data OS'				=>	'Sistema operativo: %s',
 'Show info'							=>	'Ver información',
 'Environment data version'			=>	'PHP: %s - %s',
 'Environment data acc'				=>	'Acelerador: %s',
@@ -45,7 +45,7 @@ $lang_admin_index = array(
 'XCache'							=>	'XCache',
 'XCache link'						=>	'xcache.lighttpd.net/',
 'Database label'					=>	'Base de datos',
-'Database data rows'				=>	'Lineas: %s',
+'Database data rows'				=>	'Filas: %s',
 'Database data size'				=>	'Tamaño: %s',
 
 );
