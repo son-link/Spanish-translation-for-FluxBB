@@ -28,7 +28,7 @@ $lang_admin_forums = array(
 'Confirm delete head'		=>	'Confirmar borrado de subforo',
 'Confirm delete subhead'	=>	'¡Importante! Lee antes de borrar',
 'Confirm delete info'		=>	'¿Estás seguro de querer borrar el subforo <strong>%s</strong>?',
-'Confirm delete warn'		=>	'¡ATENCIÓN! ¡Al borrar un subforo también borrara los mensajes que haya!',
+'Confirm delete warn'		=>	'¡ATENCIÓN! ¡Al borrar un subforo también borrarás los mensajes que haya!',
 
 // Detailed edit page
 'Edit forum head'			=>	'Editar subforo',
